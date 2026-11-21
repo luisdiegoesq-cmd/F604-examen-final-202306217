@@ -1,6 +1,6 @@
 # Examen final F604 - Ejercicios de C
 
-* **Nombre:** Luis López
+* **Nombre:** Luis Diego López Pérez
 * **Carné:** 202306217
 
 ## Cómo compilar y ejecutar
